@@ -13,7 +13,7 @@ Este projeto foi estudado no curso de Desenvolvimento Web na escola Code Univers
 Clone o projeto
 
 ```bash
-  git clone https://github.com/andersjay/Codeflix.git
+  git clone https://github.com/Eliabe-Ribeiro-22/Codeflix.git
 ```
 
 Entre no diretório do projeto
